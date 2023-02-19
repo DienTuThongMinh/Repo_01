@@ -1,0 +1,1 @@
+gitlab-cli is a command line utility created in JavaScript. Inspired from hub. It tries to provide commands which makes working with gitlab from the command line easier.
